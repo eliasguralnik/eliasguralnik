@@ -1,4 +1,4 @@
-# Hi, I'm Elias 👋
+# Hi, I'm Elias Guralnik 👋
 
 ### Full-Stack Developer · Cyber Systems & Network Engineering
 
