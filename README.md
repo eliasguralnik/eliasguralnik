@@ -131,20 +131,6 @@ This is the kind of project that only makes sense if you've studied how networks
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasguralnik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Elias's GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasguralnik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eliasguralnik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to interesting projects, technical conversations, or collaboration — especially at the intersection of infrastructure, security, and modern web development.
