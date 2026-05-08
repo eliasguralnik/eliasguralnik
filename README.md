@@ -1,6 +1,6 @@
 # Hi, I'm Elias 👋
 
-### Full-Stack Developer · Cyber Systems & Network Engineering (Atuda) · E-Commerce Architect
+### Full-Stack Developer · Cyber Systems & Network Engineering
 
 > *Building production-grade systems — from the network layer up to the user interface.*
 
